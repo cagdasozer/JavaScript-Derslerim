@@ -9,4 +9,4 @@ console.log(Math.trunc(sayi)); //decimal kısmı uçur
 
 const rastgele = Math.random();
 console.log(rastgele);
-console.log(Math.round(rastgele*100)); 
+console.log(Math.round(rastgele*100));
